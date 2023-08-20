@@ -1,3 +1,7 @@
+# No changes except experimental 2.01.27
+# swd already enabled
+
+
 # UV_K5_playground
 To support ongoing work, you can make a [donation](https://paypal.me/sq9p).  
 ## src/messenger ![auto release build](https://github.com/piotr022/UV_K5_playground/actions/workflows/c-cpp.yml/badge.svg)
